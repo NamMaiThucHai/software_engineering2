@@ -1,4 +1,4 @@
-﻿# importing libraries
+﻿# importing mylibraries
 import pygame
 import time
 import random
